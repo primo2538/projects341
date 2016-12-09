@@ -11,7 +11,7 @@ int main() {
     
     for(int i=0;i<100;i++){
         
-         cout <<  rand() % 100 + 1 << endl;  //number between 1 and 10
+         cout <<  rand() % 100 << endl;  //number between 1 and 10
     }
  
      return 0;
